@@ -13,3 +13,15 @@
 <a href="https://instagram.com/thebrentturner"><img src="./img/instagram2.svg" align="left" height="48" width="48" ></a>
 &nbsp;&nbsp;
 <a href="mailto:1bctt10@gmail.com"><img src="./img/email.svg" align="left" height="48" width="48" ></a>
+
+&nbsp;
+&nbsp;
+##My Stack!
+
+&nbsp;
+<img src="./img/icons8-java.svg" align="left" height="48" width="48" >
+<img src="./img/icons8-c-plus-plus-64.png" align="left" height="48" width="48" >
+<img src="./img/icons8-html-64.png" align="left" height="48" width="48" >
+<img src="./img/icons8-php-64.png" align="left" height="48" width="48" >
+<img src="./img/icons8-sql-64.png" align="left" height="48" width="48" >
+
