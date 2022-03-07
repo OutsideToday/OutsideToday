@@ -1,16 +1,15 @@
-### Hi there 👋
+### HELLO WORLD! My name is Brent!
 
-<!--
-**OutsideToday/OutsideToday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Im a Gamer, Programmer, and a Fulltime Student
+- 🔭 A lot of my repos are private but I swear I'm doin stuff!🤣
+- 🌱 I’m currently learning everything 🤣
+- 👯 I'm looking to find a job soon!
+- 🥅 2022 Goals: Find a job!
+- ⚡ Fun fact: I love to hunt and Wakeboard.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/brent-turner-04a431196/r#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/brent-turner-04a431196/r#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/thebrentturnerr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/thebrentturnerr#gh-dark-mode-only)
