@@ -27,4 +27,6 @@
 <img src="./img/icons8-c-sharp-logo-2-48.png" align="left" height="48" width="48" >
 <img src="./img/icons8-android-studio-48.png" align="left" height="48" width="48" >
 <img src="./img/icons8-github.gif" align="left" height="48" width="48" >
+<img src="./img/icons8-git-48.png" align="left" height="48" width="48" >
+
 
