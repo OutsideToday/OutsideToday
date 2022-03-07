@@ -11,3 +11,5 @@
 <a href="https://linkedin.com/in/brent-turner-04a431196/"><img src="./img/linkedIn4.svg" align="left" height="48" width="48" ></a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/thebrentturner"><img src="./img/instagram2.svg" align="left" height="48" width="48" ></a>
+&nbsp;&nbsp;
+<a href="mailto:1bctt10@gmail.com"><img src="./img/email.svg" align="left" height="48" width="48" ></a>
