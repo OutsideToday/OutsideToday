@@ -29,4 +29,7 @@
 <img src="./img/icons8-github.gif" align="left" height="48" width="48" >
 <img src="./img/icons8-git-48.png" align="left" height="48" width="48" >
 
+&nbsp;
+&nbsp;
 
+<img align="left" alt="OutsideToday's Github Stats" src="https://github-readme-stats-indol-six.vercel.app/api?username=OutsideToday&show_icons=true&hide_border=true" />
