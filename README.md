@@ -16,7 +16,7 @@
 
 &nbsp;
 &nbsp;
-##My Stack!
+## My Stack!
 
 &nbsp;
 <img src="./img/icons8-java.svg" align="left" height="48" width="48" >
