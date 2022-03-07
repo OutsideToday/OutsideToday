@@ -32,4 +32,6 @@
 &nbsp;
 &nbsp;
 
+## My Github Stats!
+
 <img align="left" alt="OutsideToday's Github Stats" src="https://github-readme-stats-indol-six.vercel.app/api?username=OutsideToday&show_icons=true&hide_border=true" />
