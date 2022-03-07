@@ -8,7 +8,4 @@
 - ⚡ Fun fact: I love to hunt and Wakeboard.
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg) width = 10px](https://linkedin.com/in/brent-turner-04a431196/)
-&nbsp;&nbsp;
-
-[![website](./img/instagram.png)](https://instagram.com/thebrentturner)
+<a href="https://instagram.com/thebrentturner"><img src="./img/instagram.png" align="left" height="48" width="48" ></a>
