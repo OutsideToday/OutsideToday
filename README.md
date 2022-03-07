@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm looking to find a job soon!
 - 🥅 2022 Goals: Find a job!
-- ⚡ Fun fact: I love to hunt and Wakeboard.
+- ⚡ Fun fact: I love to hunt and wakeboard.
 
 ### Connect with me:
 <a href="https://linkedin.com/in/brent-turner-04a431196/"><img src="./img/linkedIn3.png" align="left" height="48" width="48" ></a>
