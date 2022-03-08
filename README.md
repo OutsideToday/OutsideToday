@@ -1,5 +1,9 @@
 ### HELLO WORLD! My name is Brent!
 
+&nbsp;
+## Joke of the day!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## Im a Gamer, Programmer, and a Fulltime Student
 - 🔭 A lot of my repos are private but I swear I'm doin stuff!🤣
 - 🌱 I’m currently learning everything 🤣
