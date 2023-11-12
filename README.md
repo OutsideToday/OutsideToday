@@ -4,12 +4,6 @@
 ## Joke of the day!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## Im a Gamer, Programmer, and a Fulltime Student
-- 🔭 A lot of my repos are private but I swear I'm doin stuff!🤣
-- 🌱 I’m currently learning everything 🤣
-- 👯 I'm looking to find a job soon!
-- 🥅 2022 Goals: Find a job!
-- ⚡ Fun fact: I love to hunt and work on side projects.
 &nbsp;
 ### Connect with me:
 <a href="https://linkedin.com/in/brent-turner-04a431196/"><img src="./img/linkedIn4.svg" align="left" height="48" width="48" ></a>
